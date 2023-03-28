@@ -7,7 +7,7 @@ CONTRACT AUDIT COMPLETED: none</br>
 </br>
 IS IT SAFE?</br>
 </br>
-YES: This project is considered safe from potential rugging (fraud) due to its APPROVED status.  While a full AML/PEP level KYC is not yet completed we do hold personal KYC information that identifies the person(s) and their address.  We do not know if they are or have ever been involved in fraud, money laundering or are of polical interest.</br>
+YES: This project/person is considered safe from potential rugging (fraud) due to its APPROVED status.  While a full AML/PEP level KYC is not yet completed we do hold personal KYC information that identifies the person(s) and their address.  We do not know if they are or have ever been involved in fraud, money laundering or are of polical interest.</br>
 </br>
 RISKS: The projects contract(s) have not been audited and ownership has not been verified. However, the person(s) APPROVED are known to us and we consider this project low risk.
 </br>
